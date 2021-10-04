@@ -5,10 +5,7 @@
  */
 package bookstoreapplication;
 
-/**
- *
- * @author Vishwa
- */
+
 import java.io.*;
 import java.util.*;
 class botleft {

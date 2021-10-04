@@ -5,10 +5,7 @@
  */
 package bookstoreapplication;
 
-/**
- *
- * @author Vishwa
- */
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.FileNotFoundException;
